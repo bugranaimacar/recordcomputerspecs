@@ -1,0 +1,18 @@
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\bin\Debug\VatanRPG Onay.exe.config
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.exe
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.xml
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.pdb
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\bin\Debug\VatanRPG Onay.exe
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\bin\Debug\VatanRPG Onay.pdb
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\bin\Debug\VatanRPG Onay.xml
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPGOnay.Form1.resources
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPGOnay.Resources.resources
+C:\Users\w7\Desktop\Sunucu Client\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Client.vbproj.GenerateResource.Cache
+E:\Onay\MySqlBaglantisiVBNET\bin\Debug\VatanRPG Onay.exe.config
+E:\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.exe
+E:\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.xml
+E:\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.pdb
+H:\Onay\MySqlBaglantisiVBNET\bin\Debug\VatanRPG Onay.exe.config
+H:\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.exe
+H:\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.xml
+H:\Onay\MySqlBaglantisiVBNET\obj\Debug\VatanRPG Onay.pdb

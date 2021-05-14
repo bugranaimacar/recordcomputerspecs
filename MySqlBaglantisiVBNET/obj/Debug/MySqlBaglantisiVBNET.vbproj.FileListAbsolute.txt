@@ -1,0 +1,20 @@
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\bin\Debug\MySqlBaglantisiVBNET.exe.config
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\bin\Debug\MySqlBaglantisiVBNET.exe
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\bin\Debug\MySqlBaglantisiVBNET.pdb
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\bin\Debug\MySqlBaglantisiVBNET.xml
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\MySqlBaglantisiVBNET.Form1.resources
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\MySqlBaglantisiVBNET.Resources.resources
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\MySqlBaglantisiVBNET.vbproj.GenerateResource.Cache
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\MySqlBaglantisiVBNET.exe
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\MySqlBaglantisiVBNET.xml
+c:\users\alpago bozkurt\documents\visual studio 2013\Projects\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\MySqlBaglantisiVBNET.pdb
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\MySqlBaglantisiVBNET.vbproj.GenerateResource.Cache
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\bin\Debug\GezginRPG Güvenli Bilgisayar Sistemi.exe.config
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\bin\Debug\GezginRPG Güvenli Bilgisayar Sistemi.exe
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\bin\Debug\GezginRPG Güvenli Bilgisayar Sistemi.pdb
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\bin\Debug\GezginRPG Güvenli Bilgisayar Sistemi.xml
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\GezginRpgOnay.Form1.resources
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\GezginRpgOnay.Resources.resources
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\GezginRPG Güvenli Bilgisayar Sistemi.exe
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\GezginRPG Güvenli Bilgisayar Sistemi.xml
+C:\Users\w7\Desktop\MySqlBaglantisiVBNET\MySqlBaglantisiVBNET\obj\Debug\GezginRPG Güvenli Bilgisayar Sistemi.pdb

@@ -1,2 +1,2 @@
 # recordcomputerspecs
-A programme that records computer unique ids to sql
+A program that records computer unique ids to sql
